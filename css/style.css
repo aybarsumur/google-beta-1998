@@ -1,0 +1,59 @@
+body {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 8px;
+    background-color: white;
+}
+
+.logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 351px;
+    height: 113px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 90%;
+}
+
+.group {
+    display: flex;
+    align-items: stretch;
+    margin: 0px 1px;
+}
+
+.card1 {
+    background-color: #7EE5DA;
+}
+
+.card2 {
+    font-size: 13px;
+    background-color: #70CCC2;
+}
+
+.card3 {
+    font-size: 13px;
+    background-color: #62B3AA;
+}
+
+.item {
+    /* margin-top: 2%; */
+    margin: 11px;
+}
+
+.item2 {
+    margin-top: 8px;
+    /* margin: 3%; */
+} 
+
+footer {
+    font-size: 13px;
+    text-align: center;
+    margin-top: 17px;
+    clear:both;
+}
